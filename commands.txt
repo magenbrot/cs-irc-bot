@@ -1,0 +1,56 @@
+Commands: 
+
+Private:
+
+not authed:
+
+!help
+!connected
+!auth
+!whoami
+!rules
+!stats
+!status
+!qs
+!qs ip:port
+!send_script
+!version
+
+
+
+authed:
+
+!connect or !reconnect
+!disconnect
+!chat 0/1
+!t_chat 0/1
+!quit
+!say
+!password
+!changelevel
+!cjoin
+!reload
+
+
+Public:
+
+not authed:
+
+!help
+!fortune
+!qs
+!qs ip:port
+!quote
+!send_script
+!uptime
+!voice
+!version
+!weichei
+
+
+authed:
+
+!addquote
+!delquote
+!op
+

@@ -1,0 +1,44 @@
+23:44:31 admin_command admin_timeleft
+23:44:31 L 08/27/2001 - 23:35:08: [ADMIN] Time left on map: 1:23.
+23:44:45 admin_command admin_nextmap
+23:44:45 L 08/27/2001 - 23:35:22: [ADMIN] Next map in cycle: de_survivor
+
+wenn jemand stirbt und danach spricht soll ein (DEAD) vor dem namen stehen!
+neue variable für tote und lebende personen, (wird bei rundenneustart wieder zurückgesetzt)
+(wenn man das nicht über den normalen rcon-log mit rausfinden kann)
+
+
+[18:36] -iBot:#i][Lords- | eC-Bot || Server:[independent][Lords + )sic( Clanserver] Map:[cs_italy] Players:[0/12]|
+
+[18:39] <iBot> Round draw. No Team Won ! Now the Score is: [CT: 0|T: 0] (~16 minutes remaining)
+
+[18:39] <iBot> <]t-o-t[>SeTH*DEAD* [0/0] has entered the game
+
+[18:39] <iBot> <]t-o-t[>Liquid Snake*DEAD* [0/0]: wer wo?
+
+[18:40] <iBot> Server-Variable changed "public_slots_free" = "8.000000"
+
+[18:40] <iBot> i][Lords -=The_oNe*=-*DEAD* [0/0] has joined the Terrorist-Team
+[18:41] <iBot> (T)i][Lords -=The_oNe*=-*DEAD* [0/0]: guten tag ;)
+[18:41] <magenbrot> is nur fw :)
+[18:41] <iBot> (CT)<]t-o-t[>Liquid Snake*DEAD* [0/0]: servus
+[18:41] <iBot> (CT)<]t-o-t[>SeTH*DEAD* [0/0]: hi
+[18:41] <iBot> (T)i][Lords -=The_oNe*=-*DEAD* [0/0]: leute koennen wir auf 19 uhr verlegen?
+
+[18:43] <iBot> The CT-Team eliminated all Terrorists. Round WON ! Now the Score is: [CT: 2|T: 0] (~13 minutes remaining)
+[18:48] <iBot> The Terrorist-Team eliminated all CTs. Round WON ! Now the Score is: [CT: 6|T: 3] (~7 minutes remaining)
+
+[18:43] <iBot> _________S_t_a_t_s___________
+[18:43] <iBot> | eC-Bot || CT-Wins:[2] | T-Wins:[0]|
+[18:43] <iBot> | eC-Bot || Name:[<]t-o-t[>Liquid Snake] Kills:[0] Deaths:[0] Play-Time:[0h 3min 49sec]|
+[18:43] <iBot> | eC-Bot || Name:[<]t-o-t[>SeTH] Kills:[1] Deaths:[0] Play-Time:[0h 3min 51sec]|
+[18:43] <iBot> | eC-Bot || Name:[i][Lords -=The_oNe*=-] Kills:[0] Deaths:[2] Play-Time:[0h 2min 6sec]|
+[18:43] <iBot> | eC-Bot || Name:[i][Lords -=Urbayer=-] Kills:[0] Deaths:[0] Play-Time:[0h 5min 1sec]|
+[18:43] <iBot> | eC-Bot || Server:[independent][Lords + )sic( Clanserver] Map:[cs_italy] Players:[4/12]|
+
+[18:46] <iBot> (CT)<]t-o-t[>Liquid Snake [1/2] killed (T)i][Lords -=The_oNe*=- [3/5] with a m4a1
+
+[18:50] <iBot> The CT-Team finished cs_italy with 6 Score Points
+[18:50] <iBot> The Terrorist-Team finished cs_italy with 4 Score Points
+[18:51] <iBot> Map-Stats and Kills will now be resetted (Restart Round)
+
