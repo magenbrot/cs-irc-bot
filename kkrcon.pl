@@ -28,12 +28,12 @@
 
 # $address - Set to the hostname or IP address of the game server.
 # $port    - Set to the port number of the game server.
-$address = "62.27.48.11";
+$address = "<YOUR_GAME_SERVER_IP>";
 $port    = 27020;
 
 # $password - If you want to set a default password you can here. Otherwise
 #             kkrcon will die if no password is given on the command line.
-$password = "beisser";
+$password = "<YOUR_RCON_PASSWORD>";
 
 # $type - Game server type. Either "new" (Half-Life v1106+) or "old" (Quake1/2/3
 #         and old Half-Life).

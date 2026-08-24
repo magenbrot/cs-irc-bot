@@ -1,3 +1,5 @@
+> ⚠️ **ARCHIVED**: This project is no longer maintained. It was originally written in 2001 and last updated in 2014. All hardcoded passwords and credentials have been replaced with placeholders. If you intend to use this code, replace all `<PLACEHOLDER>` values with your own credentials.
+
 cs-irc-bot
 ==========
 
